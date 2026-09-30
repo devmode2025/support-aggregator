@@ -23,3 +23,9 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+# Coverage
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
